@@ -25,7 +25,7 @@ A static auditor for Flyway and Liquibase that flags each production hazard with
 
 **[Product page and free migration cheatsheet](https://technical-turtle.com/postgres-migration-auditor)**
 
-## Also free and open source
+## Free and open source
 
 - **Postgres Migration Guard** (`pg-migration-guard`) - the free version of the auditor: the ten common Postgres migration hazards, as a CLI and a GitHub Action. [Repository](https://github.com/technical-turtle/pg-migration-guard)
 - **Claude Code Context Telemetry** (`cc-context-telemetry`) - see your Claude Code context and usage limits in your statusline, and read them from your hooks. [Repository](https://github.com/technical-turtle/cc-context-telemetry)
