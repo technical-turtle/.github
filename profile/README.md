@@ -6,7 +6,8 @@
 
 ---
 
-I build developer tools at Technical Turtle, drawing on 18+ years of production engineering: distributed systems, GPU-accelerated simulation clusters, Kafka streaming, and Kubernetes at ASML, Philips, and Ibeo. AWS Solutions Architect Professional and CKAD certified, with a Professional Doctorate in Engineering (TU Eindhoven) and an MSc in Physics. The tools here are built to run in real pipelines, not demos.
+I design, architect, and build software.
+Distributed systems, cloud platforms, full-stack applications, cyber security, AI tooling, and more. 18+ years crafting complex systems at ASML, Philips, and Ibeo, with a Professional Doctorate in Engineering and an AWS Solutions Architect Professional certification.
 
 ## Postgres Migration Safety Auditor
 
