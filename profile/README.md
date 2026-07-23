@@ -6,7 +6,7 @@
 
 ---
 
-I design, architect, and build software.
+I design, architect, and build software.<br>
 Distributed systems, cloud platforms, full-stack applications, cyber security, AI tooling, and more. 18+ years crafting complex systems at ASML, Philips, and Ibeo, with a Professional Doctorate in Engineering and an AWS Solutions Architect Professional certification.
 
 ## Postgres Migration Safety Auditor
